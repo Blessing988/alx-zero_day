@@ -1,2 +1,3 @@
-This is a sample README of an introductory git 
-course in ALX program
+## Introduction to Git and GitHub by ALX
+
+>This course introduces you to the fundamentals of Git and Github. 
