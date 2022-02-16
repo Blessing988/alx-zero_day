@@ -1,2 +1,2 @@
-
-This is my first README on ALX git prooject 
+This is a sample README of an introductory git 
+course in ALX program
